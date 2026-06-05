@@ -6,8 +6,6 @@ author 'Kiwex Development'
 description 'KW Distributeur'
 version '1.0.0'
 
-ui_page 'web/index.html'
-
 shared_scripts {
     'config.lua',
     '@ox_lib/init.lua',
